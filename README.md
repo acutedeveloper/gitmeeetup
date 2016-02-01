@@ -7,3 +7,4 @@ An example of how to use a git repositry
 1/ Listen to the teacher
 
 ## A Change on the master branch
+### This is a branch change
